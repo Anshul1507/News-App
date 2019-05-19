@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="News Settings">
+
+    <PreferenceCategory android:title="General">
+
+        <ListPreference
+            android:defaultValue="Good News"
+            android:dialogTitle="Topic"
+            android:entries="@array/topic_labels"
+            android:entryValues="@array/topic_labels_value"
+            android:key="topic"
+            android:title="Topic" />
+
+        <ListPreference
+            android:defaultValue="Newest"
+            android:dialogTitle="Order By"
+            android:entries="@array/order_labels"
+            android:entryValues="@array/order_labels_value"
+            android:key="order_by"
+            android:title="Order By" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

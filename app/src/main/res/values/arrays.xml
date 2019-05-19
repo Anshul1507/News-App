@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="topic_labels">
+        <item>Good News</item>
+        <item>U.S. News</item>
+        <item>World</item>
+        <item>Sport</item>
+        <item>Business</item>
+        <item>Politics</item>
+        <item>Technology</item>
+        <item>Art &amp; Design</item>
+        <item>Culture</item>
+        <item>Education</item>
+        <item>Environment</item>
+        <item>Film</item>
+        <item>Life &amp; Style</item>
+        <item>Music</item>
+        <item>Science</item>
+        <item>Travel</item>
+        <item>Women in Leadership</item>
+    </string-array>
+    <string-array name="topic_labels_value">
+        <item>tag=world/series/the-upside-weekly-report</item>
+        <item>section=us-news</item>
+        <item>section=world</item>
+        <item>section=sport&amp;editions=us/sport</item>
+        <item>section=business&amp;editions=us/business</item>
+        <item>tag=us-news/us-politics</item>
+        <item>section=technology&amp;editions=us/technology</item>
+        <item>section=artanddesign</item>
+        <item>section=culture&amp;editions=us/culture</item>
+        <item>section=education&amp;editions=us/education</item>
+        <item>section=environment&amp;editions=us/environment</item>
+        <item>section=film&amp;editions=us/film</item>
+        <item>section=lifeandstyle&amp;editions=us/lifeandstyle</item>
+        <item>section=music</item>
+        <item>section=science</item>
+        <item>section=travel&amp;editions=us/travel</item>
+        <item>section=women-in-leadership</item>
+    </string-array>
+    <string-array name="order_labels">
+        <item>Newest</item>
+        <item>Oldest</item>
+        <item>Relevance</item>
+    </string-array>
+    <string-array name="order_labels_value">
+        <item>newest</item>
+        <item>oldest</item>
+        <item>relevance</item>
+    </string-array>
+</resources>

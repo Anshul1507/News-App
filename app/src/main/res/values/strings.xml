@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News App 1</string>
+    <string name="category">Category :</string>
+    <string name="author">Author :</string>
+    <string name="no_internet">No Connection</string>
+    <string name="no_news">No News</string>
+    <string name="issue_no_news">Currently there are no news for you....</string>
+    <string name="title">Markets stage Halloween rally after a month of scary losses - business live</string>
+    <string name="date_text">2018-11-04</string>
+</resources>
